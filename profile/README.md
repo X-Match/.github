@@ -1,4 +1,5 @@
-## Hi there 👋
+## XMatchですぞ
+# WIkiは[[こちらから|https://xmatch-wiki.com]]
 
 <!--
 
